@@ -1,0 +1,22 @@
+defaults:
+  - _self_
+  - train/model: bert
+
+input:
+  do_train: true
+  do_eval: true
+  do_plot: false
+  save_to_hub: true
+  train_file: ???
+  dev_file: ???
+  test_file: ???
+  train_size: null
+  augmentation_file: null
+  uri_path: null
+  run_name: ???
+  experiment_name: RQ1
+  experiment_description: "**RQ1:** If we have two different datasets, D1 and
+  D2, and two model instances M1 and M2, with the same architecture (BERT,
+  HateBERT, etc.) trained on train_D1, and train_D2 respectively. Are the
+  embeddings of test_D1 and test_D2 comparable? What about the HS classes? what
+  happens with explicit HS? and implicit HS?."
