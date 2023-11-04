@@ -43,3 +43,35 @@ The repository is structured as follows:
   - **`experiments/RQ3`**: Contains the experiments related to Research Question 3.
 
 Feel free to explore the repository and access the datasets and experiment results as needed.
+
+# Contributing
+
+We are thrilled that you are interested in contributing to our work! Your
+contributions will help to make our project even better and more useful for the
+community.
+
+Here are some ways you can contribute:
+
+- Bug reporting: If you find a bug in our code, please report it to us by
+  creating a new issue in our GitHub repository. Be sure to include detailed
+  information about the bug and the steps to reproduce it.
+
+- Code contributions: If you have experience with the technologies we are using
+  and would like to contribute to the codebase, please feel free to submit a
+  pull request. We welcome contributions of all sizes, whether it's a small bug
+  fix or a new feature.
+
+- Documentation: If you find that our documentation is lacking or could be
+  improved, we would be grateful for your contributions. Whether it's fixing
+  typos, adding new examples or explanations, or reorganizing the information,
+  your help is greatly appreciated.
+
+- Testing: Testing is an important part of our development process. We would
+  appreciate it if you could test our code and let us know if you find any
+  issues.
+
+- Feature requests: If you have an idea for a new feature or improvement, please
+  let us know by creating a new issue in our GitHub repository.
+
+All contributions are welcome and appreciated! We look forward to working with
+you to improve our project.
