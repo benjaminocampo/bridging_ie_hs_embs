@@ -44,6 +44,8 @@ The repository is structured as follows:
 
 Feel free to explore the repository and access the datasets and experiment results as needed.
 
+Full results can be found here: https://docs.google.com/spreadsheets/d/1vnbpX4I11L489gp-p1sliaW7VUOy6d4HPgQE9veqVl4/edit?usp=sharing
+
 # Contributing
 
 We are thrilled that you are interested in contributing to our work! Your
