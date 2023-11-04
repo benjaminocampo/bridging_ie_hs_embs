@@ -7,7 +7,7 @@
 PROJECT_DIR := $(shell dirname $(realpath $(lastword $(MAKEFILE_LIST))))
 BUCKET = 
 PROFILE = 
-PROJECT_NAME = bridging_implicit_explicit_hs_embeddings
+PROJECT_NAME = bridging_ie_hs_embeddings
 PYTHON_INTERPRETER = python3
 EXTRAFLAGS =
 

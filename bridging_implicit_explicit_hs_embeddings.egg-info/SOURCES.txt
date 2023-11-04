@@ -1,6 +1,0 @@
-LICENSE
-setup.py
-bridging_implicit_explicit_hs_embeddings.egg-info/PKG-INFO
-bridging_implicit_explicit_hs_embeddings.egg-info/SOURCES.txt
-bridging_implicit_explicit_hs_embeddings.egg-info/dependency_links.txt
-bridging_implicit_explicit_hs_embeddings.egg-info/top_level.txt
