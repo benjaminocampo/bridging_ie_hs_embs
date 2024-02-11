@@ -83,7 +83,7 @@ you to improve our project.
 ```tex
 @inproceedings{ocampo-etal-2023-unmasking,
     title = "Unmasking the Hidden Meaning: Bridging Implicit and Explicit Hate Speech Embedding Representations",
-    author = "Ocampo, Nicolas  and
+    author = "Ocampo, Nicol{\'a}s Benjam{\'\i}n  and
       Cabrio, Elena  and
       Villata, Serena",
     editor = "Bouamor, Houda  and
@@ -95,6 +95,7 @@ you to improve our project.
     address = "Singapore",
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2023.findings-emnlp.441",
+    doi = "10.18653/v1/2023.findings-emnlp.441",
     pages = "6626--6637",
     abstract = "Research on automatic hate speech (HS) detection has mainly focused on identifying explicit forms of hateful expressions on user-generated content. Recently, a few works have started to investigate methods to address more implicit and subtle abusive content. However, despite these efforts, automated systems still struggle to correctly recognize implicit and more veiled forms of HS. As these systems heavily rely on proper textual representations for classification, it is crucial to investigate the differences in embedding implicit and explicit messages. Our contribution to address this challenging task is fourfold. First, we present a comparative analysis of transformer-based models, evaluating their performance across five datasets containing implicit HS messages. Second, we examine the embedding representations of implicit messages across different targets, gaining insight into how veiled cases are encoded. Third, we compare and link explicit and implicit hateful messages across these datasets through their targets, enforcing the relation between explicitness and implicitness and obtaining more meaningful embedding representations. Lastly, we show how these newer representation maintains high performance on HS labels, while improving classification in borderline cases.",
 }
